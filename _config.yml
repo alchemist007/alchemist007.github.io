@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://alchemist007.github.io
+title: Projects
+email: hsenesh@gmail.com
+author: alchemist007
+description: projects sites
+paginate: 3
+google_analytics: 
